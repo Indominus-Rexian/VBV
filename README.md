@@ -1,7 +1,7 @@
 # VBV
 A very basic virus, made with tkinter
 -----------
-
+(Only supports Windows now, but made in Linux)
 This Virus was created using [Python](https://www.python.org/) library [Tkinter](https://tkdocs.com/).
 This virus is basically harmless.
 It doesn't let you close the window so easily(without killing the terminal) and just clicking a button can create a window, you can create as many windows as you like by clicking it.
