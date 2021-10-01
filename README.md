@@ -7,9 +7,9 @@ This virus is basically harmless.
 It doesn't let you close the window so easily(without killing the terminal) and just clicking a button can create a window, you can create as many windows as you like by clicking it.
 
 ## How I Changed .py to .exe
-(Seems like .exe was not able to get converted! A release update will be done soon)
-Well there were many ways to do so, But I used this [library](https://pypi.org/project/pyinstaller/) which made it so easy to change it.
-A tutorial for the same can be found [here](https://datatofish.com/executable-pyinstaller/).
+
+Well there were many ways to do so, But I used this [library](https://pypi.org/project/auto-py-to-exe/) which made it so easy to change it.
+A tutorial for the same can be found [here](https://coderslegacy.com/python/auto-py-to-exe-tutorial/).
 
 I guess I will continue to make more normal viruses(or scripts ;-;) like this in the future while learning GUI Python.
 
